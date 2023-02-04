@@ -1,0 +1,11 @@
+@import './_settings.css';
+@import './pages/_home.css';
+@import './components/_navbar.css';
+@import './components/_card.css';
+@import './components/_connectionForm.css';
+@import './pages/_profil.css';
+@import './components/_newPostForm.css';
+@import './components/_friendsHint.css';
+@import './components/_trends.css';
+@import './components/_leftNav.css';
+@import './pages/_trending.css';
